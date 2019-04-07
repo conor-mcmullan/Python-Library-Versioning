@@ -1,6 +1,11 @@
 
-# Python-Library-Versioning
+## Python-Library-Versioning
 The command to get the current pip3 install libs and modules + versions into a file
+
+## Requires
+- python (2 | 3) .x.x 
+- pip package manager for your python version
+- freeze https://pypi.org/project/freeze/
 
 ## Windows 
 - pip, python2.7.x
